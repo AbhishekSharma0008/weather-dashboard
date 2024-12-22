@@ -24,7 +24,7 @@ A modern **Weather Dashboard** web app built with **React**, **Tailwind CSS**, a
 ### New York Example 🗽
 ![New York Weather](src/screenshots/newyork-ss.png)
 
-### NCR Example 🏙️
+### NCR (Philippines) Example 🏙️
 ![NCR Weather](src/screenshots/ncr-ss.png)
 
 ## Technologies Used 🛠️

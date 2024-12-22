@@ -18,7 +18,14 @@ A modern **Weather Dashboard** web app built with **React**, **Tailwind CSS**, a
 - **Weather Icons**: Visual representation of weather conditions.  
 
 ## Screenshots 📸
+### London Example 🌆
+![London Weather](src/screenshots/london-ss/london.png)
 
+### New York Example 🗽
+![New York Weather](src/screenshots/newyork-ss/newyork.png)
+
+### NCR Example 🏙️
+![NCR Weather](src/screenshots/ncr-ss/ncr.png)
 
 ## Technologies Used 🛠️
 

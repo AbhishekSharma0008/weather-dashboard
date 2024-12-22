@@ -19,13 +19,13 @@ A modern **Weather Dashboard** web app built with **React**, **Tailwind CSS**, a
 
 ## Screenshots 📸
 ### London Example 🌆
-![London Weather](src/screenshots/london-ss/london.png)
+![London Weather](src/screenshots/london-ss.png)
 
 ### New York Example 🗽
-![New York Weather](src/screenshots/newyork-ss/newyork.png)
+![New York Weather](src/screenshots/newyork-ss.png)
 
 ### NCR Example 🏙️
-![NCR Weather](src/screenshots/ncr-ss/ncr.png)
+![NCR Weather](src/screenshots/ncr-ss.png)
 
 ## Technologies Used 🛠️
 
